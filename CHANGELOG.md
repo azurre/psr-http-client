@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file, in reverse 
 
 ## 1.0.0
 
+- Fork 
+- Remove PHP7 dependency. Current requirements:  PHP >=5.3.0
+
+## 1.0.0
+
 First stable release. No changes since 0.3.0.
 
 ## 0.3.0
